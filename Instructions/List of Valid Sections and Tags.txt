@@ -1,0 +1,14 @@
+[Information]
+ID
+Location_Name
+Time_Zone
+
+[Event_1]
+Low_Threshold_In_Percent
+High_Threshold_In_Percent
+Hysteresis_In_Percent
+
+[Event_2]
+Low_Threshold_In_Percent
+High_Threshold_In_Percent
+Hysteresis_In_Percent
